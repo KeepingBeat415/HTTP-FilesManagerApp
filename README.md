@@ -1,3 +1,14 @@
+## Project Highlight
+
+Data Communication & Network Project
+
+- Developed a robust file transfer system utilizing Python, enabling seamless communication
+  between HTTP client and server through TCP/UDP protocols
+- Expertly parsed GET/POST requests, transforming them into structured HTTP messages at the
+  Application layer for efficient data handling
+- Implemented the selective repeat technique at the Transport layer, ensuring reliable packet
+  transfer and bolstering the overall system's performance
+
 ## Run Router for simulate UDP protocol packet delayed and drop
 
 - Default router IP: localhost, PORT: 3000
